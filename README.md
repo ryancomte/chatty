@@ -1,6 +1,7 @@
 chatty
 ======
 
+<<<<<<< HEAD
 The start of the messaging client for DevMountain
 
 ##Objectives
@@ -78,3 +79,6 @@ $scope.messages = MessageService.getMessages().then(function(data) {
 ###Step 6 (Black Diamond): Add in some more data
 * Try adding some more sophistication to your chat client, such as username, or profile_picture. Allow the user to specify their username when posting a message.
  
+=======
+A messaging client example
+>>>>>>> 2e5de317417d0b4c8f778b943b924c0186950849
