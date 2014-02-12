@@ -1,7 +1,5 @@
 chatty
 ======
-
-<<<<<<< HEAD
 The start of the messaging client for DevMountain
 
 ##Objectives
@@ -81,4 +79,3 @@ $scope.messages = MessageService.getMessages().then(function(data) {
  
 =======
 A messaging client example
->>>>>>> 2e5de317417d0b4c8f778b943b924c0186950849
